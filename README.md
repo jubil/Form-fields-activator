@@ -5,4 +5,4 @@ A google chrome extension to enable all disabled form fields (DOM modification)
 *TODO
 
 ## How to install
-*TODO
+Drag and drop 'src' folder into the chrome extension tab (chrome://extensions/)
